@@ -99,22 +99,28 @@ hr {
   margin-right: 30px;
 }
 
-.tech {
+.git {
   width: 25%;
   float: right;
-  margin-left: 30px;
+  margin-right: 30px;
 }
 
-.research {
+.tech {
   width: 25%;
   float: left;
   margin-right: 30px;
 }
 
-.comms {
+.research {
   width: 25%;
   float: right;
   margin-left: 30px;
+}
+
+.comms {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
 }
 
 .trademark {
